@@ -4,7 +4,7 @@ email: jhirakawa211.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi My name is John Hirakawa and Welcome to my Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://johnhirakawa.com" # the base hostname & protocol for your site
 twitter_username: Hirakawatube
 github_username:  jhirakawa211
 

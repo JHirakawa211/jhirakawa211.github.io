@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Blog 1"
-date:   2015-07-06 18:25:42
-categories: blog update
+title:  "impressions building my first website"
+date:   2015-07-08 10:44:42
+categories: blog update/Website
 ---
 
-Hey
+

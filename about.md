@@ -4,8 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Hi There! Welcome To My Blog!
+My name is John Hirakawa and I am 20 years old. I am Japanese and I live in New Jersey. I am Sophomore Standing in RUtgers University New Brunswick studying computer science. My blog is going to have two categories which is going to be about my experience with programming and about my daily life. This blogsite is for self-satisfication so I'm planning to have fun with it!
